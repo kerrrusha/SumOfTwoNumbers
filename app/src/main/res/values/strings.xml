@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SumOfTwoNumbers</string>
+    <string name="just_for_testing_purposes">just for testing purposes</string>
+    <string name="first_number">First number:</string>
+    <string name="second_number">Second number:</string>
+    <string name="result">Result:</string>
+</resources>
